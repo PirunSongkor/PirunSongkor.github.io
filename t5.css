@@ -69,13 +69,12 @@ body {
     padding-top: 40px;
 }
 .right_side :hover{
-    background-color: rgb(240, 158, 36);
+    background-color: rgb(248, 12, 189);
     transition: all 1.5s ease;
 }
 .left_side :hover{
     background-color: rgb(240, 158, 36);
     transition: all 1.5s ease;
-    border-color: blue;
 }
 .title {
     color: #fafafa;
